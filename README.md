@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=0000FF&text_color=526eff&bg_color=191970" alt="Claudio Henrique de Olivera github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=0000FF&text_color=25fafe&bg_color=191970" alt="Claudio Henrique de Olivera github stats" /> 
    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&layout=compact&hide_border=true&title_color=0000FF&text_color=ff91a4&bg_color=191970" />
 </div>
 
