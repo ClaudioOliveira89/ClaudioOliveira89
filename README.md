@@ -20,8 +20,11 @@
 <a href = "mailto:claudio.h.oliveria.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%A9A9A9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/claudio-h-oliveira-s-18a2b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-  
+
 <br>
+<div align="center"> 
+src=https://github.com/ClaudioOliveira89/ClaudioOliveira89/issues/1#issue-1426480669
+<div align="center"> 
 <br>
 <br>
 
@@ -33,6 +36,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-075EB0?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F3CC07?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
