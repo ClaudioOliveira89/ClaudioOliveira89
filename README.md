@@ -21,12 +21,7 @@
 <a href="https://www.linkedin.com/in/claudio-h-oliveira-s-18a2b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<br>
-<div align="center"> 
-src=https://github.com/ClaudioOliveira89/ClaudioOliveira89/issues/issue-1426480669
-<div align="center"> 
-<br>
-<br>
+
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
   
