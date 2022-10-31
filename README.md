@@ -23,7 +23,7 @@
 
 <br>
 <div align="center"> 
-src=https://github.com/ClaudioOliveira89/ClaudioOliveira89/issues/1#issue-1426480669
+src=https://github.com/ClaudioOliveira89/ClaudioOliveira89/issues/issue-1426480669
 <div align="center"> 
 <br>
 <br>
