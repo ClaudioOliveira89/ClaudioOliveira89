@@ -11,7 +11,7 @@
 
 <div align="center">
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=D100FF&bg_color=19023F" alt="Claudio Henrique de Olivera github stats" /> 
-   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=0000FF&bg_color=140239" />
+   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=20B2AAe&&text_color=0000FF&bg_color=140239" />
 </div>
 <br>
  
@@ -30,7 +30,7 @@
 <br>
 <br>  
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
   
   
 ### Studying in this moment:
