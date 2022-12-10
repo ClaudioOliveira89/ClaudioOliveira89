@@ -10,8 +10,8 @@
 
 
 <div align="center">
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=D100FF&bg_color=19023F" alt="Claudio Henrique de Olivera github stats" /> 
-   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=20B2AAe&&text_color=0000FF&bg_color=140239" />
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=D100FF&bg_color=19023F" alt="Claudio Henrique de Olivera github stats" /> 
+   <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=D100FF&bg_color=19023F" />
 </div>
 <br>
  
@@ -22,9 +22,11 @@
 <br>
 
 <div align="center"> 
-<a href="https://www.instagram.com/vlad_1011001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/claudio.oliveira.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCijSGxOSTJ9ceoSvycpEOXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:claudio.h.oliveria.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%A9A9A9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  
+  
 <a href="https://www.linkedin.com/in/claudio-h-oliveira-s-18a2b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
