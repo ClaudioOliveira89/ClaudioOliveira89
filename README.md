@@ -15,7 +15,8 @@
 </div>
 <br>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ClaudioOliveira89&bg_color=00050f&color=007bff&line=4554a1&point=00affa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89&theme=react-dark)](https://github.com/ClaudioOliveira89/github-readme-activity-graph)
+
 
 <br>
 <br>
