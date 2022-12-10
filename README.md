@@ -1,41 +1,51 @@
+--Inidio com efeito--
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=120&section=header"/>
 
+_____________________________________________________________________________________________________________________________________________________________
+--Apresentação de informações--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome!;My+name+is+Claudio+Henrique+de+Oliveira;I'm+from+Brazil.;I'm+a+Student+of+Database+Technology!)](https://git.io/typing-svg)
+_____________________________________________________________________________________________________________________________________________________________
 <br>
-
+_____________________________________________________________________________________________________________________________________________________________
+--Inserção de imagens--
 
 ![banco-de-dados](https://user-images.githubusercontent.com/87618859/206824560-d14a9285-d65b-4282-a3f8-f7de52461520.png)
-
-
-
+_____________________________________________________________________________________________________________________________________________________________
+--Quadro de informações de Commits--
 
 <div align="center">
-  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=D100FF&bg_color=19023F" alt="Claudio Henrique de Olivera github stats" /> 
-   <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=D100FF&bg_color=19023F" />
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=D100FF&bg_color=19023F" alt="Claudio Henrique de Olivera github stats" />
+_____________________________________________________________________________________________________________________________________________________________
+--Quadro de informações de Línguagens--
+
+  <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=D100FF&bg_color=19023F" />
 </div>
+_____________________________________________________________________________________________________________________________________________________________
 <br>
- 
+_____________________________________________________________________________________________________________________________________________________________
+--Gráfico--
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89&theme=react-dark)](https://github.com/ClaudioOliveira89/github-readme-activity-graph)
-
-
+_____________________________________________________________________________________________________________________________________________________________
 <br>
 <br>
-
+_____________________________________________________________________________________________________________________________________________________________
 <div align="center"> 
 <a href="https://www.instagram.com/claudio.oliveira.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+_____________________________________________________________________________________________________________________________________________________________
 <a href="https://www.youtube.com/channel/UCijSGxOSTJ9ceoSvycpEOXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+_____________________________________________________________________________________________________________________________________________________________
 <a href = "mailto:claudio.h.oliveria.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%A9A9A9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  
-  
+_____________________________________________________________________________________________________________________________________________________________
 <a href="https://www.linkedin.com/in/claudio-h-oliveira-s-18a2b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
+</div>
+_____________________________________________________________________________________________________________________________________________________________
 <br>
 <br>  
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
-  
-  
+_____________________________________________________________________________________________________________________________________________________________
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
+_____________________________________________________________________________________________________________________________________________________________
 ### Studying in this moment:
 
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
@@ -43,10 +53,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
+_____________________________________________________________________________________________________________________________________________________________
 <br>
+_____________________________________________________________________________________________________________________________________________________________
+--Contagem de visitantes--
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{claudiooliveira89}/count.svg" /></p> 
 <br></div>
+_____________________________________________________________________________________________________________________________________________________________
