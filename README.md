@@ -5,14 +5,13 @@
 <br>
 
 
-![banco-de-dados](https://user-images.githubusercontent.com/87618859/206824560-d14a9285-d65b-4282-a3f8-f7de52461520.png)
-
+![269413](https://user-images.githubusercontent.com/87618859/206877167-260fa7ad-0970-4e47-8b54-610909965b79.jpg)
 
 
 
 <div align="center">
-  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=54B689&text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
-   <img width="90%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=D100FF&bg_color=111821" />
+  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=claudiooliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
+   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiooliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
 </div>
 <br>
  
@@ -26,8 +25,6 @@
 <a href="https://www.instagram.com/claudio.oliveira.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCijSGxOSTJ9ceoSvycpEOXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:claudio.h.oliveria.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%A9A9A9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  
-  
 <a href="https://www.linkedin.com/in/claudio-h-oliveira-s-18a2b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
