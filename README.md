@@ -40,7 +40,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-075EB0?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <br>
 
