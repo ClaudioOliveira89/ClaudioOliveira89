@@ -12,7 +12,7 @@
 
 <div align="center">
   <img width="1000%" height="150px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
- <img width="1100%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
+ <img width="1100%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
 </div>
 <br>
  
