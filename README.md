@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome🙏;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=My+name+is+Claudio+Oliveira;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'My+country+is+Brazil+BR+in+South+Amaerican🌎;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'm+a+software+and+database+engineering+students💻;!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'm+a+software+and+database+engineering+students💻;)](https://git.io/typing-svg)
 <br>
 
 
