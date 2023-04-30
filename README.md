@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome!;My+name+is+Claudio+Henrique+de+Oliveira;I'm+from+Brazil.;I'm+a+Student+of+Database+Technology!)](https://git.io/typing-svg)
 <br>
 
-<video src="[https://example.com/video.mp4](https://youtu.be/kYCJpxR25-4)" controls></video>
+<video src="https://youtu.be/kYCJpxR25-4"controls></video>
 
 
 ![269413](https://user-images.githubusercontent.com/87618859/206877167-260fa7ad-0970-4e47-8b54-610909965b79.jpg)
