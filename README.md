@@ -39,7 +39,7 @@
 ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=MySQL&logoColor=blue)&nbsp;
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-BFC9CA?style=for-the-badge&logo=PostgreSQL&logoColor=blue)&nbsp;
-![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
+![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=282D3C)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=00758F)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=00758F)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=282D3C)&nbsp;
