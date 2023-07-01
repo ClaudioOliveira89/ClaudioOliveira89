@@ -15,8 +15,6 @@
  <img width="1100%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
 </div>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89)](https://github.com/ClaudioOliveira89/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89&theme=dracula)](https://github.com/ClaudioOliveira89/github-readme-activity-graph)
 
 
 <br>
@@ -37,6 +35,7 @@
   
 ### Studying in this moment:
 
+![OracleSQL](https://img.shields.io/badge/OracleSQL-BFC9CA?style=for-the-badge&logo=oraclesql&logoColor=black)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-075EB0?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
