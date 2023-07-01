@@ -33,8 +33,8 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
   
   
-### I specializing in this moment:
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vesquerda=true&width=1000&lines=In+development+for+the+future;)](https://git.io/typing-svg) 
 ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=MySQL&logoColor=2E4A62)&nbsp;
