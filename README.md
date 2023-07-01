@@ -43,7 +43,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-075EB0?style=for-the-badge&logo=Python&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
-
+![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-075EB0?style=for-the-badge&logo=MicrosoftSqlServer&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 <br>
 
 <div align="center">
