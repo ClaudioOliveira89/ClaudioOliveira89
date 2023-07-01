@@ -42,6 +42,7 @@
 ![IBMDB2](https://img.shields.io/badge/IBMDB2-075EB0?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
+![Java](https://img.shields.io/badge/-Java-075EB0?style=for-the-badge&logo=java&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 
 <br>
 
