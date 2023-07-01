@@ -1,10 +1,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome🙏;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome😊;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=My+name+is+Claudio+Oliveira;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'My+country+is+Brazil+BR+in+South+Amaerican🌎;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'm+a+software+and+database+engineering+students💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'My+country+is+Brazil+in+South+Amaerican🌎;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I+am+currently+pursuing+a+degree+in+Software+Engineering💻;)](https://git.io/typing-svg)
 
 <br>
 
@@ -33,8 +33,8 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
   
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vesquerda=true&width=1000&lines=in+the+process+of+training👨‍💻;)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vesquerda=true&width=1000&lines=In+development+for+the+future;)](https://git.io/typing-svg) 
 ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=MySQL&logoColor=2E4A62)&nbsp;
@@ -43,7 +43,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=2E4A62)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
-![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 
 <br>
 
