@@ -35,15 +35,14 @@
   
 ### Studying in this moment:
 
-![Oracle](https://img.shields.io/badge/Oracle-1A09C2?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![MicrosoftSqlServer](https://img.shields.io/badge/MicrosoftSqlServer-1A09C2?style=for-the-badge&logo=MicrosoftSqlServer&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-1A09C2?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A09C2?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![IBMDB2](https://img.shields.io/badge/IBMDB2-075EB0?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
+
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
-![Python](https://img.shields.io/badge/-Python-075EB0?style=for-the-badge&logo=Python&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
-![MicrosoftSqlServer](https://img.shields.io/badge/-MicrosoftSqlServer-1A09C2?style=for-the-badge&logo=MicrosoftSqlServer&labelColor=black&textColor=red)&nbsp;
+
 <br>
 
 <div align="center">
