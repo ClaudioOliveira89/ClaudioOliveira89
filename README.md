@@ -37,9 +37,9 @@
 
 ![Oracle](https://img.shields.io/badge/Oracle-282D3C?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![MicrosoftSqlServer](https://img.shields.io/badge/MicrosoftSqlServer-282D3C?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-282D3C?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282D3C?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![IBMDB2](https://img.shields.io/badge/IBMDB2-282D3C?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-282D3C?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282D3C?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
+![DB2](https://img.shields.io/badge/DB2-282D3C?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
 
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 
