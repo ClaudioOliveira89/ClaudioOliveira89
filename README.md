@@ -35,7 +35,7 @@
   
 ### Studying in this moment:
 
-![Oracle](https://img.shields.io/badge/Oracle-075EB0?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-075EB0?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQLServer-075EB0?style=for-the-badge&logo=sqlserver&logoColor=black)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BFC9CA?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
