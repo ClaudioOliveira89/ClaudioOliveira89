@@ -15,8 +15,8 @@
  <img width="1100%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
 </div>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89)](https://github.com/ClaudioOliveira89/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89&theme=github-compact)](https://github.com/ClaudioOliveira89/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ClaudioOliveira89&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br>
