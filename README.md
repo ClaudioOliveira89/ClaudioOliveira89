@@ -23,7 +23,7 @@
 <div align="center"> 
 <a href="https://www.instagram.com/claudio.oliveira.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCijSGxOSTJ9ceoSvycpEOXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:claudio.h.oliveria.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%A9A9A9?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "mailto:claudio.h.oliveria.s@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-BFC9CA?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/claudio-h-oliveira-s-18a2b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
@@ -33,16 +33,16 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
   
   
-### Studying in this moment:
+### I specializing in this moment:
 
 ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=MySQL&logoColor=2E4A62)&nbsp;
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-BFC9CA?style=for-the-badge&logo=PostgreSQL&logoColor=2E4A62)&nbsp;
 ![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=282D3C)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=00758F)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=00758F)&nbsp;
-![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=2E4A62)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=2E4A62)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
 ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 
 <br>
