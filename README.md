@@ -39,7 +39,7 @@
 ![MicrosoftSqlServer](https://img.shields.io/badge/MicrosoftSqlServer-1A09C2?style=for-the-badge&logo=MicrosoftSqlServer&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-1A09C2?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A09C2?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![IBMDB2](https://img.shields.io/badge/IBMDB2-075EB0?style=for-the-badge&logo=ibmDB2&logoColor=white)&nbsp;
+![IBM](https://img.shields.io/badge/IBM-075EB0?style=for-the-badge&logo=ibm&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-075EB0?style=for-the-badge&logo=javascript&labelColor=CACFD2F&textColor=CACFD2)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 
