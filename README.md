@@ -41,7 +41,7 @@
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-BFC9CA?style=for-the-badge&logo=PostgreSQL&logoColor=blue)&nbsp;
 ![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=00758F)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=microsofitazure&logoColor=00758F)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=azure&logoColor=00758F)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=00758F)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 
