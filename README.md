@@ -40,7 +40,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-282D3C?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-282D3C?style=for-the-badge&logo=PostgreSQL&logoColor=white)&nbsp;
 ![DB2](https://img.shields.io/badge/DB2-282D3C?style=for-the-badge&logo=IBM&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-282D3C?style=for-the-badge&logo=SQLite&labelcolor=blue&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-282D3C?style=for-the-badge&logo=SQLite&label=blue&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-1A09C2?style=for-the-badge&logo=java&logoColor=BF1909)&nbsp;
 
 <br>
