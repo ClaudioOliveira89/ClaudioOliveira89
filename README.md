@@ -1,6 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome😊;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=My+name+is+Claudio+Oliveira;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'My+country+is+Brazil+in+South+Amaerican🌎;)](https://git.io/typing-svg)
@@ -43,7 +44,12 @@
 ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=2E4A62)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
-
+![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=Java&logoColor=red)&nbsp;
+![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-BFC9CA?style=for-the-badge&logo=Kotlin&logoColor=Yellow)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/AWS-BFC9CA?style=for-the-badge&logo=Amazon-AWS&logoColor=orange)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-BFC9CA?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-BFC9CA?style=for-the-badge&logo=Windows&logoColor=black)&nbsp;
 <br>
 
 <div align="center">
