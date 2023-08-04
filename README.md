@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=160&section=header&text=Claudio%20Oliveira&fontSize=40&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=150&section=header&text=Claudio%20Oliveira&fontSize=40&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome😊;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+in+Software+Engineering💻;)](https://git.io/typing-svg)
