@@ -1,9 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=160&section=header&text=Claudio%20Oliveira&fontSize=30&fontColor=111821&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=160&section=header&text=Claudio%20Oliveira&fontSize=40&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome😊;)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=My+name+is+Claudio+Oliveira;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I'My+country+is+Brazil+in+South+Amaerican🌎;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=I+am+currently+pursuing+a+degree+in+Software+Engineering💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome😊;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+in+Software+Engineering💻;)](https://git.io/typing-svg)
 
 <br>
 
@@ -32,7 +30,7 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
   
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vesquerda=true&width=1000&lines=in+the+process+of+training👨‍💻;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vesquerda=true&width=1000&lines=in+the+process+of+training👨‍💻;)](https://git.io/typing-svg) 
 
 ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
