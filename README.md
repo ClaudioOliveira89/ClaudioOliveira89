@@ -1,6 +1,4 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=160&section=header&text=Claudio%20Oliveira&fontSize=30&fontColor=111821&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome😊;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=25fafe&size=25&center=true&vCenter=true&width=1000&lines=My+name+is+Claudio+Oliveira;)](https://git.io/typing-svg)
