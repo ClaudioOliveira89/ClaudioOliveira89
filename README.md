@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=150&section=header&text=Claudio%20Oliveira&fontSize=40&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome🙂;)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+a+student+in+Software+Engineering💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+a+student+in+Software+Engineering!;)](https://git.io/typing-svg)
 
-![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263490495-9954c8ce-f5be-451b-afa6-5cd49dfdb6cb.jpg)
+![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263490494-2d7d485d-6284-476c-b08a-f187b343db1c.jpg)
 
 
 
 <div align="center">
-  <img width="1000%" height="210px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
-<img width="1000%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
+  <img width="52%" height="210px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
+<img width="46%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
 </div>
 <br>
 
