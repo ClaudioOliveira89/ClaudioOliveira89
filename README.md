@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+a+student+in+Software+Engineering!;)](https://git.io/typing-svg)
 
-![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263497109-a4209983-a8ad-4f5d-b7c3-b43a66b00c10.jpg)
+![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263498156-15cc6b0b-ced1-45fc-b2ae-dd30aedf28fb.jpg)
 
 
 
@@ -40,6 +40,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
 ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=Java&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=Yellow)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-BFC9CA?style=for-the-badge&logo=Kotlin&logoColor=Yellow)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/AWS-BFC9CA?style=for-the-badge&logo=Amazon-AWS&logoColor=orange)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-BFC9CA?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
