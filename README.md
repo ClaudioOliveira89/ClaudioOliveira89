@@ -36,12 +36,12 @@
 ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-BFC9CA?style=for-the-badge&logo=PostgreSQL&logoColor=2E4A62)&nbsp;
 ![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=282D3C)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=2E4A62)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
 ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
 ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=Java&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
-![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=Yellow)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-BFC9CA?style=for-the-badge&logo=Kotlin&logoColor=Yellow)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/AWS-BFC9CA?style=for-the-badge&logo=Amazon-AWS&logoColor=orange)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-BFC9CA?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-BFC9CA?style=for-the-badge&logo=Windows&logoColor=black)&nbsp;
