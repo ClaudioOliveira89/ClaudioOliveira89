@@ -1,19 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=150&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=40&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
+<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=100&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
 
 
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+a+student+in+Software+Engineering!;)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="250%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
 
-
+<div align="container">
+  <img width="30%" height="280px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&&count_private=true&hide_border=true&title_color=25fafe&icon_color=0015fftext_color=0015ff&bg_color=111821" alt="Claudio Olivera github stats" /> 
+  <img width="%" height="280px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=9213d1&text_color=25fafe&bg_color=0d1117" alt="Claudio de  github stats" /> 
+<div/>
 
 
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=20&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
 <div align="center"> 
 <a href="https://www.instagram.com/claudio.oliveira.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
