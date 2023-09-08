@@ -3,16 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome;)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+a+student+in+Software+Engineering!;)](https://git.io/typing-svg)
 
-![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263498156-15cc6b0b-ced1-45fc-b2ae-dd30aedf28fb.jpg)
+![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
 
 
 
 <div align="center">
-  <img width="250%" height="210px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
-<img width="250%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&title_color=25fafe&&text_color=4169E1&bg_color=111821" />
-</div>
-<br>
+  <img width="250%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=25fafe&icon_color=4682B4text_color=D100FF&bg_color=111821" alt="Claudio Henrique de Olivera github stats" /> 
 
+
+
+
+
+
+   
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=111821&color=54d5de&line=4169E1&point=25fafe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
