@@ -12,12 +12,6 @@
 
 
 
-
-
-   
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=111821&color=54d5de&line=4169E1&point=25fafe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=120&section=header"/>
 
@@ -53,3 +47,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{claudiooliveira89}/count.svg" /></p> 
 <br></div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=000000&color=ffffff&line=007539&point=00ff4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
