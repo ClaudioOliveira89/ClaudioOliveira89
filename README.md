@@ -1,15 +1,17 @@
-<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=200% src="https://capsule-render.vercel.app/api?color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?&color=00758F&height=&section=header&text=Hello%20My%20Visitors%20Welcome&fontSize=15&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 
-
+  
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=Hello+my+visitors+welcome;)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vCenter=true&width=1000&lines=I+am+a+student+in+Software+Engineering!;)](https://git.io/typing-svg)
+
+
 
 
 <div align="container">
-  <img width="30%" height="280px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&&count_private=true&hide_border=true&title_color=25fafe&icon_color=0015fftext_color=0015ff&bg_color=111821" alt="Claudio Olivera github stats" /> 
-  <img width="%" height="280px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=9213d1&text_color=25fafe&bg_color=0d1117" alt="Claudio de  github stats" /> 
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&&count_private=true&hide_border=true&title_color=25fafe&icon_color=0015fftext_color=0015ff&bg_color=111821" alt="Claudio Olivera github stats" /> 
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=9213d1&text_color=25fafe&bg_color=0d1117" alt="Claudio de  github stats" /> 
 <div/>
 
 
@@ -26,7 +28,7 @@
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54d5de&size=25&center=true&vesquerda=true&width=1000&lines=in+the+process+of+training👨‍💻;)](https://git.io/typing-svg) 
+
   
 ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
