@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
+<img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height=80&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=120" />
 
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
 
@@ -6,7 +6,7 @@
 <div align="conter">
     
   <img width="200%" height="220px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
-  <img width="200%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafetext_color=25fafe&bg_color=111821" alt="My github stats" /> 
+  <img width="200%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
 <div/>
     
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=20&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
@@ -34,4 +34,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{claudiooliveira89}/count.svg" /></p> 
 <br></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=000000&color=ffffff&line=007539&point=00ff4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=111821&color=ffffff&line=007539&point=00ff4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
