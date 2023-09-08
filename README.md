@@ -5,8 +5,8 @@
 
 <div align="conter">
     
-  <img width="200%" height="220px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=9213d1&text_color=25fafe&bg_color=0d1117" alt="Claudio de  github stats" /> 
-  <img width="200%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafetext_color=0015ff&bg_color=111821" alt="My github stats" /> 
+  <img width="200%" height="220px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
+  <img width="200%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafetext_color=25fafe&bg_color=111821" alt="My github stats" /> 
 <div/>
     
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=20&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
