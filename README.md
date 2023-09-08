@@ -1,4 +1,4 @@
-<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=100&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 
 
