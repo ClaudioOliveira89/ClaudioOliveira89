@@ -1,4 +1,4 @@
-<img width=200% src="https://capsule-render.vercel.app/api?color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
+<img width=200% src="https://capsule-render.vercel.app/api?color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
 
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
 
