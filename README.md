@@ -1,12 +1,6 @@
-<img width=200% src="https://capsule-render.vercel.app/api?color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=200% src="https://capsule-render.vercel.app/api?color=00758F&height=&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?&color=00758F&height=&section=header&text=Hello%20My%20Visitors%20Welcome&fontSize=15&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-
-
-  
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
-
-
 
 
 <div align="container">
@@ -17,7 +11,7 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=20&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=20&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 <div align="center"> 
 <a href="https://www.instagram.com/claudio.oliveira.89/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
