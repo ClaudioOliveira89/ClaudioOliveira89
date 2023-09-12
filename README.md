@@ -1,6 +1,7 @@
-<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height=80&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=25&fontColor=54d5de&animation=twinkling&fontCourierNew=120" />
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height=80&section=header&fontColor=54d5de&animation=twinkling&fontCourierNew=120" />
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=30&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
 
-![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/266647916-b01ebb0c-66a1-46c7-89c4-d0546f119e43.jpeg)
+![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263498167-a2cc5fbc-f4e7-4337-ac85-6e67ff57686c.jpg)
 
 
 <div align="conter">
