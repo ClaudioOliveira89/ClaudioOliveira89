@@ -1,7 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height=90&section=header&fontColor=54d5de&animation=twinkling&fontCourierNew=120" />
-<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=30&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=40&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
+
 
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263498167-a2cc5fbc-f4e7-4337-ac85-6e67ff57686c.jpg)
+
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=%20As%20áreas%20de%20interesse%20DBA,%20Engenharia%20de%20Dados,%20Ciência%20de%20Dados%20e%20Cibersegurança&fontSize=15&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
+
+
 
 
 <div align="conter">
