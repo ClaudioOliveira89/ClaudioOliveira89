@@ -3,15 +3,15 @@
 
 ![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263498167-a2cc5fbc-f4e7-4337-ac85-6e67ff57686c.jpg)
 
-<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=%20As%20áreas%20de%20interesse%20DBA,%20Engenharia%20de%20Dados,%20Ciência%20de%20Dados%20e%20Cibersegurança&fontSize=15&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Areas%20of%20interest%20DBA%20Database%20Administrator%20Data%20Engineering%20Data%20Science%20and%20Cybersecurity&fontSize=18&fontColor=54d5de&animation=twinkling&fontCourierNew=100" />
 
 
 
 
 <div align="conter">
     
-  <img width="200%" height="220px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
-  <img width="200%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
+  <img width="200%" height="210px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
+  <img width="200%" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
 <div/>
     
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=20&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
