@@ -26,8 +26,10 @@
   ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=Java&logoColor=red)&nbsp;
   ![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
   ![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
-  ![Apache](https://img.shields.io/badge/Apache-BFC9CA?style=for-the-badge&logo=Apache&logoColor=282D3C)&nbsp;
+  ![R](https://img.shields.io/badge/R-BFC9CA?style=for-the-badge&logo=R&logoColor=2E4A62)&nbsp;
+  ![Apache Airflow](https://img.shields.io/badge/Airflow-BFC9CA?style=for-the-badge&logo=Apacheairflow&logoColor=282D3C)&nbsp;
   ![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
+  ![Google Cloud](https://img.shields.io/badge/Google-BFC9CA?style=for-the-badge&logo=GoogleCloud&logoColor=2E4A62)&nbsp;
   ![Amazon AWS](https://img.shields.io/badge/AWS-BFC9CA?style=for-the-badge&logo=Amazon-AWS&logoColor=orange)&nbsp;
   ![Linux](https://img.shields.io/badge/Linux-BFC9CA?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-BFC9CA?style=for-the-badge&logo=Windows&logoColor=black)&nbsp;
