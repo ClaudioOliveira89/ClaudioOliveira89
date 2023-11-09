@@ -1,27 +1,29 @@
 <img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 
-
-
-![(https://user-images.githubusercontent.com/87618859/281586769-0515e842-d3fa-40bb-bcf9-81a304fb5942.gif](https://user-images.githubusercontent.com/87618859/281586810-4f57a8a7-200e-4319-a2e5-887e80586274.gif)
-
-
-
-<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Areas%20of%20interest%20DBA%20(Database%20Administrator)%20Data%20Engineering,%20Data%20Science%20and%20Cybersecurity&fontSize=18&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img  width="100%" align="center" src= "https://user-images.githubusercontent.com/87618859/281586797-abc6b970-7654-4fe7-ad21-0323aebe8aba.gif" />
 
 
 
-<div align="conter">
-    
 
-<img width="32%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Areas%20of%20interest%20DBA%20(Database%20Administrator)%20Data%20Engineering,%20Data%20Science%20and%20Cybersecurity&fontSize=18&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+
+
+<div align="conter">    
+<img width="33%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
 <img width="43%" align="center" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
-<img width="19%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
-
+<img width="19%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
 <div/>
     
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+
+
+
+
+
   ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
   ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=MySQL&logoColor=2E4A62)&nbsp;
