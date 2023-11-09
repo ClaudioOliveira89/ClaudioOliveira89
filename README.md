@@ -14,7 +14,7 @@
 
 <div align="conter">
     
-  <img height="280em" align="left" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
+  <img height="250em" align="left" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
   <img height="280em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
 <div/>
     
