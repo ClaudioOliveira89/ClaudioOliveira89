@@ -31,7 +31,7 @@
   ![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=282D3C)&nbsp;
   ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=2E4A62)&nbsp;
   ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=Java&logoColor=red)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=openjdk&logoColor=2E4A62)&nbsp;
   ![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
   ![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
   ![R](https://img.shields.io/badge/R-BFC9CA?style=for-the-badge&logo=R&logoColor=2E4A62)&nbsp;
