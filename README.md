@@ -1,7 +1,11 @@
 <img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 
-![235362472-a8290262-ed58-41bd-b69c-f71ac44faacf](https://user-images.githubusercontent.com/87618859/263498167-a2cc5fbc-f4e7-4337-ac85-6e67ff57686c.jpg)
+
+
+![(https://user-images.githubusercontent.com/87618859/281586769-0515e842-d3fa-40bb-bcf9-81a304fb5942.gif](https://user-images.githubusercontent.com/87618859/281586810-4f57a8a7-200e-4319-a2e5-887e80586274.gif)
+
+
 
 <img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Areas%20of%20interest%20DBA%20(Database%20Administrator)%20Data%20Engineering,%20Data%20Science%20and%20Cybersecurity&fontSize=18&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
@@ -10,8 +14,8 @@
 
 <div align="conter">
     
-  <img width="200%" height="210px" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
-  <img width="200%" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
+  <img height="280em" align="left" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
+  <img height="280em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=claudioOliveira89&show_icons=true&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
 <div/>
     
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
@@ -27,6 +31,7 @@
   ![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
   ![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
   ![R](https://img.shields.io/badge/R-BFC9CA?style=for-the-badge&logo=R&logoColor=2E4A62)&nbsp;
+  ![Fortran](https://img.shields.io/badge/Fortran-BFC9CA?style=for-the-badge&logo=fortran&logoColor=6800AE)&nbsp;
   ![Apache Airflow](https://img.shields.io/badge/Airflow-BFC9CA?style=for-the-badge&logo=Apacheairflow&logoColor=282D3C)&nbsp;
   ![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
   ![Google Cloud](https://img.shields.io/badge/Google-BFC9CA?style=for-the-badge&logo=GoogleCloud&logoColor=2E4A62)&nbsp;
@@ -36,9 +41,12 @@
 
 <br>
 
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{claudiooliveira89}/count.svg" /></p> 
 <br></div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=111821&color=ffffff&line=007539&point=00ff4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
