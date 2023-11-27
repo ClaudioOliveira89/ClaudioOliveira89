@@ -12,9 +12,9 @@
 
 
 <div align="conter">   
-<img width="39%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
-<img width="38%" align="center" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
-<img width="38%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" /> 
+<img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" /> 
+<img width="47%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
 <div/>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
