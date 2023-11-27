@@ -53,4 +53,4 @@
 <br></div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioOliveira89&bg_color=111821&color=ffffff&line=007539&point=00ff4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)**
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
