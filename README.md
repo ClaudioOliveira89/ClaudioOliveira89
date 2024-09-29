@@ -27,24 +27,26 @@
 
 
 
-  ![Oracle](https://img.shields.io/badge/Oracle-BFC9CA?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/SQLServer-BFC9CA?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=red)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-BFC9CA?style=for-the-badge&logo=MySQL&logoColor=2E4A62)&nbsp;
-  ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-BFC9CA?style=for-the-badge&logo=PostgreSQL&logoColor=2E4A62)&nbsp;
-  ![DB2](https://img.shields.io/badge/DB2-BFC9CA?style=for-the-badge&logo=IBM&logoColor=282D3C)&nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-BFC9CA?style=for-the-badge&logo=SQLite&logoColor=2E4A62)&nbsp;
-  ![MariaDB](https://img.shields.io/badge/MariaDB-BFC9CA?style=for-the-badge&logo=MariaDB&logoColor=red)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-BFC9CA?style=for-the-badge&logo=openjdk&logoColor=2E4A62)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-BFC9CA?style=for-the-badge&logo=Python&logoColor=Yellow)&nbsp;
-  ![Scala](https://img.shields.io/badge/Scala-BFC9CA?style=for-the-badge&logo=Scala&logoColor=red)&nbsp;
-  ![R](https://img.shields.io/badge/R-BFC9CA?style=for-the-badge&logo=R&logoColor=2E4A62)&nbsp;
-  ![Fortran](https://img.shields.io/badge/Fortran-BFC9CA?style=for-the-badge&logo=fortran&logoColor=6800AE)&nbsp;
-  ![Apache Airflow](https://img.shields.io/badge/Airflow-BFC9CA?style=for-the-badge&logo=Apacheairflow&logoColor=282D3C)&nbsp;
-  ![Microsoft Azure](https://img.shields.io/badge/Azure-BFC9CA?style=for-the-badge&logo=MicrosoftAzure&logoColor=2E4A62)&nbsp;
-  ![Google Cloud](https://img.shields.io/badge/Google-BFC9CA?style=for-the-badge&logo=GoogleCloud&logoColor=2E4A62)&nbsp;
-  ![Amazon AWS](https://img.shields.io/badge/AWS-BFC9CA?style=for-the-badge&logo=Amazon-AWS&logoColor=orange)&nbsp;
-  ![Linux](https://img.shields.io/badge/Linux-BFC9CA?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-BFC9CA?style=for-the-badge&logo=Windows&logoColor=black)&nbsp;
+  ![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle&logoColor=25fafe)&nbsp;
+  ![SQLServer](https://img.shields.io/badge/Microsoft%20SQLServer-black?style=for-the-badge&logo=Microsoft-SQLServer&logoColor=25fafe)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=25fafe)&nbsp;
+  ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=25fafe)&nbsp;
+  ![DB2](https://img.shields.io/badge/IBM%20DB2-black?style=for-the-badge&logo=DB2&logoColor=25fafe)&nbsp;
+  ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=25fafe)&nbsp;
+  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=MariaDB&logoColor=25fafe)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=25fafe)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=25fafe)&nbsp;
+  ![Scala](https://img.shields.io/badge/Scala-black?style=for-the-badge&logo=Scala&logoColor=25fafe)&nbsp;
+  ![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=25fafe)&nbsp;
+  ![R](https://img.shields.io/badge/Juila-black?style=for-the-badge&logo=Julia&logoColor=25fafe)&nbsp;
+  ![R](https://img.shields.io/badge/Ada-black?style=for-the-badge&logo=Ada&logoColor=25fafe)&nbsp;
+  ![Fortran](https://img.shields.io/badge/Fortran-black?style=for-the-badge&logo=fortran&logoColor=25fafe)&nbsp;
+  ![Apache Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=Apacheairflow&logoColor=25fafe)&nbsp;
+  ![Microsoft Azure](https://img.shields.io/badge/Azure%20Cloud-black?style=for-the-badge&logo=Azure&logoColor=25fafe)&nbsp;
+  ![Google Cloud](https://img.shields.io/badge/Google-black?style=for-the-badge&logo=GoogleCloud&logoColor=25fafe)&nbsp;
+  ![Amazon AWS](https://img.shields.io/badge/AWS%20Cloud-black?style=for-the-badge&logo=AWS&logoColor=25fafe)&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=25fafe)&nbsp;
+  ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=MicrosoftWindows&logoColor=25fafe)&nbsp;
 
 <br>
 
