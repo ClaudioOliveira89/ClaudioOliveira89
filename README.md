@@ -1,19 +1,18 @@
-<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
+
+<img width=100% src="https://private-user-images.githubusercontent.com/87618859/420732951-4d8c2026-f364-4d0f-b930-3ad993ebce80.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE1NzMwNDAsIm5iZiI6MTc0MTU3Mjc0MCwicGF0aCI6Ii84NzYxODg1OS80MjA3MzI5NTEtNGQ4YzIwMjYtZjM2NC00ZDBmLWI5MzAtM2FkOTkzZWJjZTgwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEwVDAyMTIyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwMmQzODkwYTc4NDEwZGIwMjc1NDViZWY5YWUwMDAzNjc3OWRhN2ZhMmEzNmIyNDJiNjM3ZjkzMDIzYTViNDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.081sGn3RtkO2Iv67-fXhAGRecAHO8Aix3ew8qajANP8" />
 
 
-<img width=100% src="https://private-user-images.githubusercontent.com/87618859/281586810-4f57a8a7-200e-4319-a2e5-887e80586274.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc2MzkyNjQsIm5iZiI6MTcyNzYzODk2NCwicGF0aCI6Ii84NzYxODg1OS8yODE1ODY4MTAtNGY1N2E4YTctMjAwZS00MzE5LWEyZTUtODg3ZTgwNTg2Mjc0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI5VDE5NDI0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1OGQ2YzU0YjYxMjFhNmQyYzMwYWFlNzdhMTNhNDg1NDEyNjU0MDgxZTE1MTM2YzQxZDRkMjY2ZjE1YjY2MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7yU8kQY4JYs6ogbv_tjnVOPkwX9cSkpN2N6ISgFlXTQ" />
 
 
-
-
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=25fafe&height&section=header&text=Areas%20of%20interest%20DBA%20(Database%20Administrator)%20Data%20Engineering,%20Data%20Science%20and%20Cybersecurity&fontSize=18&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height&section=header&text=Areas%20of%20interest%20DBA%20(Database%20Administrator)%20Data%20Engineering,%20Data%20Science%20and%20Cybersecurity&fontSize=18&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 
   
 <diva lign="center">
   <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" />
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de github stats" />
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
+  <img align="left" width="355" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de github stats" />
+  <img align="left" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
 </div>
 
 
