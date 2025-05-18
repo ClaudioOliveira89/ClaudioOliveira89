@@ -20,27 +20,53 @@
 
 
 
-  ![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle&logoColor=25fafe)&nbsp;
-  ![SQLServer](https://img.shields.io/badge/Microsoft%20SQLServer-black?style=for-the-badge&logo=Microsoft-SQLServer&logoColor=25fafe)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=25fafe)&nbsp;
-  ![Postgre SQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=25fafe)&nbsp;
-  ![DB2](https://img.shields.io/badge/IBM%20DB2-black?style=for-the-badge&logo=DB2&logoColor=25fafe)&nbsp;
-  ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=25fafe)&nbsp;
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=MariaDB&logoColor=25fafe)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=25fafe)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=25fafe)&nbsp;
-  ![Scala](https://img.shields.io/badge/Scala-black?style=for-the-badge&logo=Scala&logoColor=25fafe)&nbsp;
-  ![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=25fafe)&nbsp;
-  ![R](https://img.shields.io/badge/Juila-black?style=for-the-badge&logo=Julia&logoColor=25fafe)&nbsp;
-  ![R](https://img.shields.io/badge/Ada-black?style=for-the-badge&logo=Ada&logoColor=25fafe)&nbsp;
-  ![Fortran](https://img.shields.io/badge/Fortran-black?style=for-the-badge&logo=fortran&logoColor=25fafe)&nbsp;
-  ![Apache Airflow](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=Apacheairflow&logoColor=25fafe)&nbsp;
-  ![Microsoft Azure](https://img.shields.io/badge/Azure%20Cloud-black?style=for-the-badge&logo=Azure&logoColor=25fafe)&nbsp;
-  ![Google Cloud](https://img.shields.io/badge/Google-black?style=for-the-badge&logo=GoogleCloud&logoColor=25fafe)&nbsp;
-  ![Amazon AWS](https://img.shields.io/badge/AWS%20Cloud-black?style=for-the-badge&logo=AWS&logoColor=25fafe)&nbsp;
-  ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=25fafe)&nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=MicrosoftWindows&logoColor=25fafe)&nbsp;
-
+![Fortran](https://img.shields.io/badge/Fortran-black?style=for-the-badge&logo=fortran&logoColor=25fafe)&nbsp;
+![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=25fafe)&nbsp;
+![C#](https://img.shields.io/badge/%23-black?style=for-the-badge&logo=c&logoColor=25fafe)&nbsp;
+![C++](https://img.shields.io/badge/++-black?style=for-the-badge&logo=c&logoColor=25fafe)&nbsp;
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=25fafe)&nbsp;
+![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=25fafe)&nbsp;
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=25fafe)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=25fafe)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-black?style=for-the-badge&logo=scala&logoColor=25fafe)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-black?style=for-the-badge&logo=matlab&logoColor=25fafe)&nbsp;
+![Julia](https://img.shields.io/badge/Julia-black?style=for-the-badge&logo=julia&logoColor=25fafe)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=25fafe)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity&logoColor=25fafe)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=25fafe)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=25fafe)&nbsp;
+![Golang](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=25fafe)&nbsp;
+![Zig](https://img.shields.io/badge/Zig-black?style=for-the-badge&logo=zig&logoColor=25fafe)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=25fafe)&nbsp;
+![Raskel](https://img.shields.io/badge/Raskel-black?style=for-the-badge&logo=haskell&logoColor=25fafe)&nbsp;
+![Ada](https://img.shields.io/badge/Ada-black?style=for-the-badge&logo=ada&logoColor=25fafe)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=25fafe)&nbsp;
+![AWS](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=googlecloud&logoColor=25fafe)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud&logoColor=25fafe)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=googlecloud&logoColor=25fafe)&nbsp;
+![IBM](https://img.shields.io/badge/IBM-black?style=for-the-badge&logo=googlecloud&logoColor=25fafe)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=googlecloud&logoColor=25fafe)&nbsp;
+![Alibaba](https://img.shields.io/badge/Alibaba-black?style=for-the-badge&logo=googlecloud&logoColor=25fafe)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=25fafe)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle&logoColor=25fafe)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=25fafe)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=25fafe)&nbsp;
+![SQLLite](https://img.shields.io/badge/SQLLite-black?style=for-the-badge&logo=sqlite&logoColor=25fafe)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=for-the-badge&logo=mariadb&logoColor=25fafe)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=25fafe)&nbsp;
+![Cassandra](https://img.shields.io/badge/Cassandra-black?style=for-the-badge&logo=apachecassandra&logoColor=25fafe)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=for-the-badge&logo=elasticsearch&logoColor=25fafe)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=25fafe)&nbsp;
+![Couchbase](https://img.shields.io/badge/Couchbase-black?style=for-the-badge&logo=couchbase&logoColor=25fafe)&nbsp;
+![Hbase](https://img.shields.io/badge/Hbase-black?style=for-the-badge&logo=hbase&logoColor=25fafe)&nbsp;
+![Neo4J](https://img.shields.io/badge/Neo4J-black?style=for-the-badge&logo=neo4j&logoColor=25fafe)&nbsp;
+![VisualBasic](https://img.shields.io/badge/VisualBasic-black?style=for-the-badge&logo=visualbasic&logoColor=25fafe)&nbsp;
+![Apache AirFlow](https://img.shields.io/badge/Apache%20AirFlow-black?style=for-the-badge&logo=apacheairflow&logoColor=25fafe)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=25fafe)&nbsp;
+![Apache HFS](https://img.shields.io/badge/Apache%20HFS-black?style=for-the-badge&logo=apache&logoColor=25fafe)&nbsp;
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-black?style=for-the-badge&logo=apachehadoop&logoColor=25fafe)&nbsp;
+![Apache River](https://img.shields.io/badge/Apache%20River-black?style=for-the-badge&logo=apache&logoColor=25fafe)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apachespark&logoColor=25fafe)&nbsp;
 <br>
 
 
