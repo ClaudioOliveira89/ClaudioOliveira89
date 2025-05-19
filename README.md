@@ -67,6 +67,7 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-black?style=for-the-badge&logo=apachehadoop&logoColor=25fafe)&nbsp;
 ![Apache River](https://img.shields.io/badge/Apache%20River-black?style=for-the-badge&logo=apache&logoColor=25fafe)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-black?style=for-the-badge&logo=apachespark&logoColor=25fafe)&nbsp;
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=25fafe)
 <br>
 
 
