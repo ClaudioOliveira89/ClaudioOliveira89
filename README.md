@@ -58,9 +58,9 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black?style=for-the-badge&logo=elasticsearch&logoColor=25fafe)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=25fafe)&nbsp;
 ![Couchbase](https://img.shields.io/badge/Couchbase-black?style=for-the-badge&logo=couchbase&logoColor=25fafe)&nbsp;
-![Hbase](https://img.shields.io/badge/Hbase-black?style=for-the-badge&logo=hbase&logoColor=25fafe)&nbsp;
+![H base](https://img.shields.io/badge/H%20base-black?style=for-the-badge&logo=h%20base&logoColor=25fafe)&nbsp;
 ![Neo4J](https://img.shields.io/badge/Neo4J-black?style=for-the-badge&logo=neo4j&logoColor=25fafe)&nbsp;
-![VisualBasic](https://img.shields.io/badge/VisualBasic-black?style=for-the-badge&logo=visualbasic&logoColor=25fafe)&nbsp;
+![VisualBasic](https://img.shields.io/badge/Visual%20Basic-black?style=for-the-badge&logo=visual%20basic&logoColor=25fafe)&nbsp;
 ![Apache AirFlow](https://img.shields.io/badge/Apache%20AirFlow-black?style=for-the-badge&logo=apacheairflow&logoColor=25fafe)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=25fafe)&nbsp;
 ![Apache HFS](https://img.shields.io/badge/Apache%20HFS-black?style=for-the-badge&logo=apache&logoColor=25fafe)&nbsp;
