@@ -1,21 +1,30 @@
-<img width=99% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
+<img width=99% src="https://capsule-render.vercel.app/api?type=transparent&color=050a24&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
-<img width=100% src="https://private-user-images.githubusercontent.com/87618859/420732949-d36acffd-5b9b-49d0-9bd9-c81e6b0ec844.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY0MjM1MzksIm5iZiI6MTc0NjQyMzIzOSwicGF0aCI6Ii84NzYxODg1OS80MjA3MzI5NDktZDM2YWNmZmQtNWI5Yi00OWQwLTliZDktYzgxZTZiMGVjODQ0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTA1VDA1MzM1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0YWZhYTNiNGUyZjIwMTM5YzAwNDVhNjAzNWY1YjQ0ZDYyZjAyNTZhYjNjYzA2MTQ1ZGU0MmQzMGNlYWVmODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sXLNBuHQ3pvkqwDTMsrTbXy82P6bVPpxVE1jl8JNVvQ" />
+
+<img width=100% src="https://private-user-images.githubusercontent.com/87618859/457684295-f55d3b65-b15b-4276-b075-9e6645bc17da.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA2MjkyNTAsIm5iZiI6MTc1MDYyODk1MCwicGF0aCI6Ii84NzYxODg1OS80NTc2ODQyOTUtZjU1ZDNiNjUtYjE1Yi00Mjc2LWIwNzUtOWU2NjQ1YmMxN2RhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDIxNDkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzYzE4ZDFmMzI5ZjE2NjUwNzBiNTE0NzYzMzVmNTY5OGVjMjI1YzlkZjZhZmM0MDMwNmRlNTdkZjUxZDkxMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.A__ZTIr_B7zjpnRqmL7vQvjDdFQp6hc_VFkAI6mPy8g" />
 
   
 <diva lign="center">
-  <img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&count_private=true&hide_border=true&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=111821" alt="My github stats" />
-  <img align="left" width="355" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=111821" alt="Claudio de github stats" />
-  <img align="left" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=111821" alt="Claudio de  github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
+  <img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&show_icons=false&langs_count=20&count_private=true&hide_border=false&title_color=25fafe&icon_color=25fafe&text_color=02bfa6&bg_color=0d1117" alt="My github stats" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=claudioOliveira89&show_icons=true&count_private=false&hide_border=true&title_color=25fafe&icon_color=4b17e6&text_color=02bfa6&bg_color=0d1117" alt="Claudio de github stats" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioOliveira89&layout=compact&hide_border=true&title_color=25fafe&text_color=02bfa6&bg_color=0d1117" alt="Claudio de  github stats" />
 </div>
 
 
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudioOliveira89&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
+
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
 
+<img src="https://streak-stats.demolab.com/?user=claudioOliveira89&theme=dark&hide_border=true&stroke=25fafe&ring=02bfa6&fire=25fafe&currStreakLabel=02bfa6" />
 
 
 
