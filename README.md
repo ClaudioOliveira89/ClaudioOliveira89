@@ -1,15 +1,15 @@
 <img width=90% src="https://capsule-render.vercel.app/api?type=transparent&color=050a24&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
 
-<img width=100% src="https://private-user-images.githubusercontent.com/87618859/457684289-b61d4fe4-787f-4139-a936-dc6d960f9104.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA2MzE5NjQsIm5iZiI6MTc1MDYzMTY2NCwicGF0aCI6Ii84NzYxODg1OS80NTc2ODQyODktYjYxZDRmZTQtNzg3Zi00MTM5LWE5MzYtZGM2ZDk2MGY5MTA0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDIyMzQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkOTY1NjczYzY3ZmQ2NmI5MTk0YjAyYTlhMTI5MDhmNjM5OTkwMGY0NmI1MGI0Yjg3M2Y5ZTg4Nzk2MTZhZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vFKrwV8LsNagS-zjiKnibe7njTG3E9lh1pjR3ZYSWwA" />
+<img width=90% src="https://private-user-images.githubusercontent.com/87618859/457684289-b61d4fe4-787f-4139-a936-dc6d960f9104.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA2MzE5NjQsIm5iZiI6MTc1MDYzMTY2NCwicGF0aCI6Ii84NzYxODg1OS80NTc2ODQyODktYjYxZDRmZTQtNzg3Zi00MTM5LWE5MzYtZGM2ZDk2MGY5MTA0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIyVDIyMzQyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkOTY1NjczYzY3ZmQ2NmI5MTk0YjAyYTlhMTI5MDhmNjM5OTkwMGY0NmI1MGI0Yjg3M2Y5ZTg4Nzk2MTZhZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vFKrwV8LsNagS-zjiKnibe7njTG3E9lh1pjR3ZYSWwA" />
 
 
 
 <div> 
 
-  <img align="center" width="290" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark" />
-    <img  align="center" width="290" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
-  <img align="center" width="290" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="285" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark" />
+    <img  align="center" width="285" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="285" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
 </div>
 
 
