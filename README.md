@@ -41,6 +41,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=25fafe)&nbsp;
 ![Golang](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go&logoColor=25fafe)&nbsp;
 ![Zig](https://img.shields.io/badge/Zig-0d1117?style=for-the-badge&logo=zig&logoColor=25fafe)&nbsp;
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=R&logoColor=25fafe) 
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=25fafe)&nbsp;
 ![Haskell](https://img.shields.io/badge/Haskell-0d1117?style=for-the-badge&logo=haskell&logoColor=25fafe)&nbsp;
 ![Ada](https://img.shields.io/badge/Ada-0d1117?style=for-the-badge&logo=ada&logoColor=25fafe)&nbsp;
@@ -61,14 +62,14 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=25fafe)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=25fafe)&nbsp;
 ![Couchbase](https://img.shields.io/badge/Couchbase-0d1117?style=for-the-badge&logo=couchbase&logoColor=25fafe)&nbsp;
-![HBase](https://img.shields.io/badge/HBase-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=25fafe)&nbsp;
+![HBase](https://img.shields.io/badge/HBase-0d1117?style=for-the-badge&logo=hbase&logoColor=25fafe)&nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=25fafe)&nbsp;
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-0d1117?style=for-the-badge&logo=visualstudio&logoColor=25fafe)&nbsp;
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=25fafe)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=25fafe)&nbsp;
 ![HDFS](https://img.shields.io/badge/HDFS-0d1117?style=for-the-badge&logo=apache&logoColor=25fafe)&nbsp;
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=25fafe)&nbsp;
-![Apache River](https://img.shields.io/badge/Apache%20River-0d1117?style=for-the-badge&logo=apache&logoColor=25fafe)&nbsp;
+![Apache River](https://img.shields.io/badge/Apache%20River-0d1117?style=for-the-badge&logo=apacheriver&logoColor=25fafe)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=25fafe)&nbsp;
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=25fafe)
 
