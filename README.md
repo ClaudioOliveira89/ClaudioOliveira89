@@ -1,8 +1,8 @@
 <img align="right" width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=050a24&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
-<img align="left" width=150% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img align="left" width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
-<img width=90% src="https://private-user-images.githubusercontent.com/87618859/457684289-b61d4fe4-787f-4139-a936-dc6d960f9104.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE4NjAzNzcsIm5iZiI6MTc1MTg2MDA3NywicGF0aCI6Ii84NzYxODg1OS80NTc2ODQyODktYjYxZDRmZTQtNzg3Zi00MTM5LWE5MzYtZGM2ZDk2MGY5MTA0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA3VDAzNDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNjA5YzBjYjkyNGM2ZGRlMWVmYWMzM2U5NWJiOTQ0YmUwYWFmOTExNWQ0OThiMGZkNmM2YmVmZTU3ZmE1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.INVnsp4iibqwgxctSmbHKtzzm4KzjNoU5TeW9nT-N_k" />
+<img width=100% src="https://private-user-images.githubusercontent.com/87618859/457684289-b61d4fe4-787f-4139-a936-dc6d960f9104.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE4NjAzNzcsIm5iZiI6MTc1MTg2MDA3NywicGF0aCI6Ii84NzYxODg1OS80NTc2ODQyODktYjYxZDRmZTQtNzg3Zi00MTM5LWE5MzYtZGM2ZDk2MGY5MTA0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA3VDAzNDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxNjA5YzBjYjkyNGM2ZGRlMWVmYWMzM2U5NWJiOTQ0YmUwYWFmOTExNWQ0OThiMGZkNmM2YmVmZTU3ZmE1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.INVnsp4iibqwgxctSmbHKtzzm4KzjNoU5TeW9nT-N_k" />
 
 
 <table align="left">
@@ -37,9 +37,9 @@
 
 
 <div align="center">
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Language%20Programming%20end%20Frameworks&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Data%20Base%20end%20Data%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cibersecurity&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Programming%20language%20and%20framework&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=SQL%20and%20NoSQL%20database&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cloud%20computing%20and%20cybersecurity&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 </div>
 
 
