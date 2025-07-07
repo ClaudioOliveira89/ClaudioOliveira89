@@ -8,21 +8,21 @@
 <table align="left">
   <tr>
     <td>
-       <img width="300"
+       <img width="400"
            src="https://github-readme-stats.vercel.app/api?username=ClaudioOliveira89&show_icons=true&hide_border=true&theme=github_dark&title_color=25fafe&icon_color=25fafe&text_color=25fafe" />
     </td>
     <td width="100"></td> <!-- Espaço entre os dois cards -->
     <td>
-     <img width="300"
+     <img width="320"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioOliveira89&layout=compact&hide_border=true&theme=transparent&title_color=25fafe&text_color=25fafe" />
     </td>
   </tr>
 </table>
 
 <div> 
-  <img align="center" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&" />
-    <img  align="center" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
-  <img align="center" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&" />
+    <img  align="center" width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
 </div>
 
 <br>
