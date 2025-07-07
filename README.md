@@ -20,9 +20,9 @@
 </table>
 
 <div> 
-  <img align="center" width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&" />
-    <img  align="center" width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
-  <img align="center" width="280" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&" />
+    <img  align="center" width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="260" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
 </div>
 
 <br>
