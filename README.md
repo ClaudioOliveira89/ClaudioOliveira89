@@ -13,7 +13,7 @@
     </td>
     <td width="95"></td> <!-- Espaço entre os dois cards -->
     <td>
-     <img width="320"
+     <img width="318"
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioOliveira89&layout=compact&hide_border=true&theme=transparent&title_color=25fafe&text_color=25fafe" />
     </td>
   </tr>
