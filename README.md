@@ -33,7 +33,7 @@
 
 
 <div align="center">
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Programming%20language&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=80% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Programming%20language&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 <div align="center">
   
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-0d1117.svg?style=for-the-badge&logo=assemblyscript&logoColor=25fafe)
@@ -74,7 +74,7 @@
 </div>
 
 
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=DBA%20and%20data%20enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=80% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=DBA%20and%20Data%20enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 <div align="center">
 
 
@@ -112,7 +112,7 @@
 
 
 
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cybersecurity&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+<img width=80% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cybersecurity&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 <div align="center">
   
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=25fafe)
