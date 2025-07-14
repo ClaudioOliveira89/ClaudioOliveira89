@@ -8,12 +8,12 @@
   <tr>
     <td>
        <img width="398"
-            src="https://github-readme-stats.vercel.app/api?username=ClaudioOliveira89&show_icons=true&hide_border=false&theme=transparent&title_color=25fafe&icon_color=blue&text_color=25fafe" />
+            src="https://github-readme-stats.vercel.app/api?username=ClaudioOliveira89&show_icons=true&hide_border=true&theme=transparent&title_color=blue&icon_color=blue&text_color=25fafe" />
     </td>
     <td width="95"></td> <!-- Espaço entre os dois cards -->
     <td>
      <img width="318"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioOliveira89&layout=compact&hide_border=false&theme=transparent&title_color=25fafe&text_color=25fafe" />
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioOliveira89&layout=compact&hide_border=true&theme=transparent&title_color=blue&text_color=25fafe" />
     </td>
   </tr>
 </table>
