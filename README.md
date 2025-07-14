@@ -73,10 +73,11 @@
 
 </div>
 
-  
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=SQL%20and%20NoSQL%20database&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=DBA%20and%20data%20enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 <div align="center">
-  
+
+
 ![Oracle](https://img.shields.io/badge/Oracle-0d1117?style=for-the-badge&logo=oracle&logoColor=25fafe)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=25fafe)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=25fafe)&nbsp;
@@ -92,11 +93,6 @@
 ![Couchbase](https://img.shields.io/badge/Couchbase-0d1117?style=for-the-badge&logo=couchbase&logoColor=25fafe)&nbsp;
 ![HBase](https://img.shields.io/badge/HBase-0d1117?style=for-the-badge&logo=hbase&logoColor=25fafe)&nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=25fafe)&nbsp;
-</div>
-
-
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cloud%20comput%20and%20data%20enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-<div align="center">
 
 ![Apache](https://img.shields.io/badge/Apache-0d1117?style=for-the-badge&logo=apache&logoColor=25fafe)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0d1117?style=for-the-badge&logo=Apache%20Airflow&logoColor=25fafe)
@@ -123,77 +119,9 @@
 ![Kali Linux](https://img.shields.io/badge/Kali-0d1117?style=for-the-badge&logo=kalilinux&logoColor=25fafe)
 ![Tails](https://img.shields.io/badge/Tails-0d1117?style=for-the-badge&logo=tails&logoColor=25fafe)
 ![TOR](https://img.shields.io/badge/TOR-0d1117?style=for-the-badge&logo=tor-project&logoColor=25fafe)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=25fafe)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=25fafe)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=25fafe)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-0d1117.svg?style=for-the-badge&logo=assemblyscript&logoColor=25fafe)
 </div>
 
 
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Frameworks&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-<div align="center">
-  
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=25fafe)
-![.NET MAUI](https://img.shields.io/badge/MAUI-0d1117?style=for-the-badge&logo=dotnet&logoColor=25fafe)
-![Blazor](https://img.shields.io/badge/Blazor-0d1117?style=for-the-badge&logo=blazor&logoColor=25fafe)
-![Unity](https://img.shields.io/badge/Unity-0d1117?style=for-the-badge&logo=unity&logoColor=25fafe)
-![Pytest](https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest&logoColor=25fafe)
-![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=25fafe)
-![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=25fafe)
-![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=25fafe)
-![Plotly](https://img.shields.io/badge/Plotly-%230d1117.svg?style=for-the-badge&logo=plotly&logoColor=25fafe)
-![Streamlit](https://img.shields.io/badge/streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=25fafe)
-![Flask](https://img.shields.io/badge/flask-0d1117?style=for-the-badge&logo=flask&logoColor=25fafe)
-![Django](https://img.shields.io/badge/django-0d1117?style=for-the-badge&logo=django&logoColor=25fafe)
-![Scrapy](https://img.shields.io/badge/scrapy-0d1117?style=for-the-badge&logo=scrapy&logoColor=25fafe)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=25fafe)
-![PyTorch](https://img.shields.io/badge/PyTorch-%230d1117.svg?style=for-the-badge&logo=PyTorch&logoColor=25fafe)
-![TensorFlow](https://img.shields.io/badge/tensorflow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=25fafe)
-![Keras](https://img.shields.io/badge/keras-0d1117?style=for-the-badge&logo=keras&logoColor=25fafe)
-![Spring](https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=25fafe)
-![Maven](https://img.shields.io/badge/Maven-0d1117?style=for-the-badge&logo=apache-maven&logoColor=25fafe)
-![NetBeans](https://img.shields.io/badge/NetBeansIDE-0d1117?style=for-the-badge&logo=apache-netbeans-ide&logoColor=25fafe)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0d1117?style=for-the-badge&logo=intellij-idea&logoColor=25fafe)
-![Eclipse](https://img.shields.io/badge/Eclipse-0d1117?style=for-the-badge&logo=eclipse-ide&logoColor=25fafe)
-![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=25fafe)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=25fafe)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=25fafe)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=25fafe)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=25fafe)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=25fafe)
-![SolidJS](https://img.shields.io/badge/SolidJS-0d1117?style=for-the-badge&logo=solid&logoColor=25fafe)
-![jQuery](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=25fafe)
-![Strapi](https://img.shields.io/badge/Strapi-0d1117?style=for-the-badge&logo=strapi&logoColor=25fafe)
-![Octave](https://img.shields.io/badge/Octave-0d1117?style=for-the-badge&logo=Octave&logoColor=25fafe) 
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=Go&logoColor=25fafe)
-![Gin](https://img.shields.io/badge/Gin-0d1117?style=for-the-badge&logo=Go&logoColor=25fafe)
-![Fiber](https://img.shields.io/badge/Fiber-0d1117?style=for-the-badge&logo=Go&logoColor=25fafe)
-![GORM](https://img.shields.io/badge/GORM-0d1117?style=for-the-badge&logo=Go&logoColor=25fafe)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=Docker&logoColor=25fafe)
-![Microservices](https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&logo=Go&logoColor=25fafe)
-![Actix](https://img.shields.io/badge/actix-0d1117?style=for-the-badge&logo=actix&logoColor=25fafe)
-![Rocket](https://img.shields.io/badge/rocket-0d1117?style=for-the-badge&logo=rocket&logoColor=25fafe)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-0d1117?style=for-the-badge&logo=ruby-on-rails&logoColor=25fafe)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=25fafe)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=25fafe)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=25fafe)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=25fafe)
-![ESLint](https://img.shields.io/badge/ESLint-0d1117?style=for-the-badge&logo=eslint&logoColor=25fafe)
-![Prettier](https://img.shields.io/badge/Prettier-0d1117?style=for-the-badge&logo=prettier&logoColor=25fafe)
-![Vitest](https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&logo=vitest&logoColor=25fafe)
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=25fafe)
-![Remix](https://img.shields.io/badge/Remix-0d1117?style=for-the-badge&logo=remix&logoColor=25fafe)
-![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=ethereum&logoColor=25fafe)
-![Web3](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=Web3.js&logoColor=25fafe)&nbsp;
-![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3.js&logoColor=25fafe)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-0d1117?style=for-the-badge&logo=ethereum&logoColor=25fafe)
-![IPFS](https://img.shields.io/badge/IPFS-0d1117?style=for-the-badge&logo=ipfs&logoColor=25fafe)
-![Chainlink](https://img.shields.io/badge/Chainlink-0d1117?style=for-the-badge&logo=chainlink&logoColor=25fafe)
-![Binance](https://img.shields.io/badge/Binance-0d1117?style=for-the-badge&logo=binance&logoColor=25fafe)
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=25fafe)&nbsp;
-![Bitcoin](https://img.shields.io/badge/Bitcoin-0d1117?style=for-the-badge&logo=bitcoin&logoColor=25fafe)&nbsp;
-
-</div>
 
 
 
