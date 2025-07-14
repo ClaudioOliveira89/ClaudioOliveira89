@@ -34,8 +34,15 @@
 
 <div align="center">
 <img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Programming%20language%20and%20framework&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+  
 <img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=SQL%20and%20NoSQL%20database&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
-<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cloud%20computing%20and%20cybersecurity&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cloud%20comput%20and%20data%20enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=WEB&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
+
+<img width=60% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Cybersecurity&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 </div>
 
 
