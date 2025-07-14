@@ -4,20 +4,20 @@
 
 <img width=100% src="https://private-user-images.githubusercontent.com/87618859/465774962-261bd8ab-1c56-4def-9587-a13b08d2f30f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI0NDEwNDEsIm5iZiI6MTc1MjQ0MDc0MSwicGF0aCI6Ii84NzYxODg1OS80NjU3NzQ5NjItMjYxYmQ4YWItMWM1Ni00ZGVmLTk1ODctYTEzYjA4ZDJmMzBmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEzVDIxMDU0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxZTMzNWRkOWZhNDBmY2M4NGQ4ZjJhNTdhMWViZjU2OGQwNWViMmQxN2Q2M2EyZTE5ZGJlNDllMDAwZmI1MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NZsqIRKe4m4zI2XTeReQD-OZyUPKcdIlCUf-SMzf8lI" />
 
-
 <table align="left">
   <tr>
     <td>
        <img width="398"
-           src="https://github-readme-stats.vercel.app/api?username=ClaudioOliveira89&show_icons=true&hide_border=true&theme=github_dark&title_color=25fafe&icon_color=25fafe&text_color=25fafe" />
+            src="https://github-readme-stats.vercel.app/api?username=ClaudioOliveira89&show_icons=true&hide_border=false&theme=transparent&title_color=25fafe&icon_color=blue&text_color=25fafe" />
     </td>
     <td width="95"></td> <!-- Espaço entre os dois cards -->
     <td>
      <img width="318"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioOliveira89&layout=compact&hide_border=true&theme=transparent&title_color=25fafe&text_color=25fafe" />
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioOliveira89&layout=compact&hide_border=false&theme=transparent&title_color=25fafe&text_color=25fafe" />
     </td>
   </tr>
 </table>
+
 
 
 <div> 
