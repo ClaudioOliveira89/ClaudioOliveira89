@@ -2,7 +2,7 @@
 
 <img align="left" width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=00758F&height=&section=header&text=Data%20Base%20and%20Software%20Enginner&fontSize=16&fontColor=54d5de&animation=twinkling&fontCourierNew=30" />
 
-<img width=100% src="https://private-user-images.githubusercontent.com/87618859/478740462-6278bbf0-53c0-47f8-a4b4-84d6e043b940.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY2MjQyMTMsIm5iZiI6MTc1NjYyMzkxMywicGF0aCI6Ii84NzYxODg1OS80Nzg3NDA0NjItNjI3OGJiZjAtNTNjMC00N2Y4LWE0YjQtODRkNmUwNDNiOTQwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODMxVDA3MDUxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3N2VkOGI2NmQ5ODY2ZmYwM2JkM2NhYmRkZjc5ZjA5MjhkNGZkZDA4OTEwZWFkYmZhYmMwOTA5Njc2M2U4NGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.57s8uwOoEozL7v7G-8VdUw6XSJHYdkJeEgHCXnzLsEI" />
+<img width=100% src="https://private-user-images.githubusercontent.com/87618859/478740462-6278bbf0-53c0-47f8-a4b4-84d6e043b940.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkwNDI0NTYsIm5iZiI6MTc1OTA0MjE1NiwicGF0aCI6Ii84NzYxODg1OS80Nzg3NDA0NjItNjI3OGJiZjAtNTNjMC00N2Y4LWE0YjQtODRkNmUwNDNiOTQwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTI4VDA2NDkxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1ZjJhN2MzZDViZjJkZThkZTA2NTc4ZDUzZWUxYWRmMTE2NzI4MjRkMjU5MDZkNjYwYTE3NjBjOGEzMTg0ZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RXL7bG77JmAU0B9M-icZxy6b4RPaFAgMTXrVNJYsyJ0" />
 
 <table align="left">
   <tr>
@@ -38,6 +38,7 @@
   
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-0d1117.svg?style=for-the-badge&logo=assemblyscript&logoColor=25fafe)
 ![Fortran](https://img.shields.io/badge/fortran-0d1117?style=for-the-badge&logo=fortran&logoColor=25fafe)
+![Scheme](https://img.shields.io/badge/scheme-0d1117.svg?style=for-the-badge&logo=commonlisp&logoColor=25fafe)
 ![Lisp](https://img.shields.io/badge/Lisp-0d1117?style=for-the-badge&logo=commonlisp&logoColor=25fafe)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=25fafe)
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=25fafe)
