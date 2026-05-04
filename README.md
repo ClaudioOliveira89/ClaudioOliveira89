@@ -1,15 +1,23 @@
 <img align="right" width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=050a24&height&section=header&text=Claudio%20Henrique%20de%20Oliveira%20Soares&fontSize=35&fontColor=54d5de&animation=twinkling&fontCourierNew=40" />
 
-<img align="left" width=100% src="https://private-user-images.githubusercontent.com/87618859/465774962-261bd8ab-1c56-4def-9587-a13b08d2f30f.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY4MTcxNzIsIm5iZiI6MTc3NjgxNjg3MiwicGF0aCI6Ii84NzYxODg1OS80NjU3NzQ5NjItMjYxYmQ4YWItMWM1Ni00ZGVmLTk1ODctYTEzYjA4ZDJmMzBmLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIyVDAwMTQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjNGQwM2E0ODUwZTM0NzA2OGQ1YTZhZDg1YjIxOWY5ZTFjY2FmMmYzZGJkMjdmZDg1NjM0ZWM2NGE2MGNkMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmpwZWcifQ.nFL68AsPevs0mHa9r_QbUqW_lFaXS9qpphAXMlD8LRI" />
-
-<img width=100% src="https://private-user-images.githubusercontent.com/87618859/517768985-84664181-8d1d-435a-93fa-eb499b0a4d08.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjczMjkyNjEsIm5iZiI6MTc2NzMyODk2MSwicGF0aCI6Ii84NzYxODg1OS81MTc3Njg5ODUtODQ2NjQxODEtOGQxZC00MzVhLTkzZmEtZWI0OTliMGE0ZDA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAyVDA0NDI0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMxNjcwOGM2N2Y5ZmM3ZWY0MjNkZDEwZDQ4ZDNiYzc5MTdjYjE5YWJiNjEyNzM1MzQ1NTk4YjgzNGVjYjM0NTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.osXADfQPZbSSbEjPc8xN3n-N_pr2umgsYdJXVlcb_Oc" />
+<img width="100%" src="https://private-user-images.githubusercontent.com/87618859/457684289-b61d4fe4-787f-4139-a936-dc6d960f9104.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc4NzY3MjUsIm5iZiI6MTc3Nzg3NjQyNSwicGF0aCI6Ii84NzYxODg1OS80NTc2ODQyODktYjYxZDRmZTQtNzg3Zi00MTM5LWE5MzYtZGM2ZDk2MGY5MTA0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA0VDA2MzM0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1YjUwMzUxYjdlZWJjNjdmYmRkNDZiYzhhNTJlNzgxMjEzMWQ1ODJkNzJjM2IxZjEzOGJiNjIzNGNkMTc4ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.FbVsh8SdsCKUf_HNVet9a1I7jlWhXlMokLhTtPxcXXI"/>
 
 
 
-<div> 
-  <img align="center" width="270" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&" />
-    <img  align="center" width="270" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
-  <img align="center" width="270" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
+<div align="center">
+  <table border="0" cellspacing="8" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&border_color=25fafe" width="270" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark&border_color=25fafe" width="270" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark&border_color=25fafe" width="270" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -130,7 +138,4 @@
 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
